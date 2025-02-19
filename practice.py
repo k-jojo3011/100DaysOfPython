@@ -20,6 +20,6 @@ ccdict = {
     "Eritrea":"Asmara"
 
 }
-print()
+print(ccdict)
 ccdict.update({"USA":"Washington DC"})
 print(ccdict)
